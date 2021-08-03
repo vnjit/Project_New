@@ -30,3 +30,8 @@ services:
     container_name: "Flask_App_66"
     ports:
       - "5005:5005"
+  app9:
+    build: ./flask-sqlalchemy-tutorial/flask_sqlalchemy_tutorial
+    container_name: "Flask_App_99"
+    ports:
+      - "5008:5008"
