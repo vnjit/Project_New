@@ -19,12 +19,12 @@
 [Connect Flask to a Database with Flask-Login](https://github.com/vnjit/Project/tree/Part-10)
 
 
-![Create Flask](images/Createflask.png)
+![Create Flask](Images/Createflask.png)
 
-![Form Page](images/FormPage.png)
+![Form Page](Images/FormPage.png)
 
-![SignUp Form](images/SignupForm.png)
+![SignUp Form](Images/SignupForm.png)
 
-![Contact Form](images/ContactForm.png)
+![Contact Form](Images/ContactForm.png)
 
-![Configuring](images/Configurating.png)
+![Configuring](Images/Configurating.png)
