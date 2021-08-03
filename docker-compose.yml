@@ -35,3 +35,10 @@ services:
     container_name: "Flask_App_99"
     ports:
       - "5008:5008"
+  final:
+    build: ./appx/app
+    container_name: "Flask_App_Project"
+    depends_on:
+      - db
+    ports:
+      - "5006:5006"
